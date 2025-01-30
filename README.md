@@ -8,6 +8,10 @@ I'm a passionate Fullstack Developer with expertise in **Java**, **Angular**, **
 
 ---
 
+![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+---
+
 ### 🛠️ Technologies & Tools
 
 #### **Backend:**
@@ -73,9 +77,3 @@ Check out my portfolio to see more of my work and projects:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benfill/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benfianass@gmail.com)
-
----
-
-### 🎨 Animation
-
-![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
