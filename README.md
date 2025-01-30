@@ -1,6 +1,6 @@
 # Hi there, I'm Anass Benfillous 👋
 
-## Fullstack Developer | Java | Angular | React | Laravel
+## Fullstack Developer | Java | Spring Boot | Angular | React | Next.js | Laravel
 
 ### 🚀 About Me
 
@@ -19,6 +19,7 @@ I'm a passionate Fullstack Developer with expertise in **Java**, **Angular**, **
 #### **Frontend:**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
