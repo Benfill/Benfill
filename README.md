@@ -1,79 +1,146 @@
-# Hi there, I'm Anass Benfillous 👋
+<div align="center">
+  
+# 👋 Hi, I'm Anass Benfillous
 
-## Fullstack Developer | Java | Spring Boot | Angular | React | Next.js | Laravel
+### Full-Stack Developer | Building Scalable Web Solutions
 
-### 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4285F4?style=for-the-badge)](https://benfill.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/benfill/)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benfianass@gmail.com)
 
-I'm a Full-Stack Developer currently architecting Mo9awil at ACHRAF CONSEIL—a multi-SaaS platform transforming how businesses operate and scale. I specialize in building end-to-end solutions using Java (Spring Boot), Angular, Next.js, and TypeScript. From my foundation at YouCode (UM6P & Simplon) to leading enterprise projects, I focus on creating scalable architectures that solve real business problems. What drives me: Transforming complex challenges into elegant, performant solutions. Whether it's optimizing backend APIs or crafting intuitive user interfaces, I believe great software should feel effortless but be powerful under the hood. Currently obsessing over microservices architecture, performance optimization, and building the multi-SaaS ecosystem that will define Mo9awil's future
-
----
-
-![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
----
-
-### 🛠️ Technologies & Tools
-
-#### **Backend:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-#### **Frontend:**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### **Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-000000?style=for-the-badge&logo=h2&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### **Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+</div>
 
 ---
 
-### 🌟 Featured Projects
+## 🚀 About Me
 
-#### **Mo9awil.ma - Online Business Creation Platform**
-A user-friendly platform designed to simplify the process of creating businesses in Morocco.  
-**Tech Stack:** Laravel | ReactJS | Tailwind  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/benfill/mo9awil.ma)
+Full-Stack Developer with **6 months of professional experience** in startup environments and freelance projects. I specialize in building end-to-end web applications across healthcare, hospitality, and business automation sectors. 
 
-#### **Evento - Event Ticket Reservation**
-A platform for managing and reserving event tickets.  
-**Tech Stack:** Laravel | JavaScript | Tailwind  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/benfill/evento)
+**What I bring:**
+- 💼 Real-world experience delivering production-ready systems from concept to deployment
+- 🎯 Strong problem-solving approach with focus on scalability and maintainability
+- 🔄 Stack-agnostic mindset — quick to adapt to new technologies and architectural patterns
+- 🤝 Collaborative team player actively seeking opportunities to contribute and grow in professional environments
 
----
+<div align="center">
+  
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-### 📈 GitHub Stats
-
-![Anass's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benfill&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benfill&layout=compact&theme=radical)
+</div>
 
 ---
 
-### 🌐 Portfolio
+## 🛠️ Tech Stack
 
-Check out my portfolio to see more of my work and projects:  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://benfill.vercel.app/)
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Let's Connect!
+## 🌟 Latest Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benfill/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benfianass@gmail.com)
+### 🔗 [AzHotels - Hotel Booking Platform](https://azhotels.vercel.app/select-hotel) - AzHotels - Hotel Booking Platform
+AzHotels is a comprehensive hotel booking platform featuring dynamic content, detailed room listings, integrated booking and payment systems.
+
+**Tech:** `Spring Boot` `Next.js` `TypeScript` `Tailwind CSS`
+
+[Live Demo](https://azhotels.vercel.app/select-hotel)
+
+---
+
+### 🚀 [Mo9awil.ma](https://github.com/benfill/mo9awil.ma) - Business Creation Platform
+Streamlined platform simplifying business registration and legal compliance for Moroccan entrepreneurs.
+
+**Impact:** Reduced business creation time from weeks to days  
+**Tech:** `Laravel` `React` `Tailwind CSS` `MySQL`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/benfill/mo9awil.ma)
+
+---
+
+### 🎫 [Evento](https://github.com/benfill/evento) - Event Management System
+Comprehensive ticketing platform with real-time seat selection and payment processing.
+
+**Features:** QR code tickets, analytics dashboard, automated notifications  
+**Tech:** `Laravel` `JavaScript` `Tailwind CSS` `Stripe API`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/benfill/evento)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benfill&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benfill&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benfill&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💼 What I'm Looking For
+
+I'm actively seeking opportunities to join a professional development team where I can:
+- Contribute to meaningful projects with real-world impact
+- Collaborate with experienced developers and learn industry best practices
+- Grow my technical skills in modern software architecture and design patterns
+- Work in an environment that values clean code, testing, and continuous improvement
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, collaboration opportunities, or tech in general.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benfill/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Latest_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://benfill.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benfianass@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ From [Benfill](https://github.com/Benfill) | Building the web, one commit at a time
+
+![Profile Views](https://komarev.com/ghpvc/?username=benfill&color=blueviolet&style=flat-square)
+
+</div>
