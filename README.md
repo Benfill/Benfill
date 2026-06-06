@@ -1,146 +1,114 @@
-<div align="center">
-  
-# 👋 Hi, I'm Anass Benfillous
+# Hi, I'm Anass Benfillous
 
-### Full-Stack Developer | Building Scalable Web Solutions
+### Junior Fullstack Developer
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4285F4?style=for-the-badge)](https://benfill.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/benfill/)
-[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benfianass@gmail.com)
+**Java / Spring Boot · Laravel · React · Next.js · TypeScript**
 
-</div>
+I'm a junior fullstack developer based in Rabat / Salé, Morocco.
+I build web applications from backend APIs to responsive user interfaces, with a focus on clean structure, mobile-first design, and practical delivery.
 
----
-
-## 🚀 About Me
-
-Full-Stack Developer with **6 months of professional experience** in startup environments and freelance projects. I specialize in building end-to-end web applications across healthcare, hospitality, and business automation sectors. 
-
-**What I bring:**
-- 💼 Real-world experience delivering production-ready systems from concept to deployment
-- 🎯 Strong problem-solving approach with focus on scalability and maintainability
-- 🔄 Stack-agnostic mindset — quick to adapt to new technologies and architectural patterns
-- 🤝 Collaborative team player actively seeking opportunities to contribute and grow in professional environments
-
-<div align="center">
-  
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</div>
+Currently improving my skills through real projects, freelance work, internships, and continuous learning.
 
 ---
 
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
+## Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+`Java` `Spring Boot` `Spring MVC` `Spring Data` `Spring Security` `Laravel` `PHP` `REST APIs` `Node.js`
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+`React` `Next.js` `Angular` `TypeScript` `JavaScript` `Tailwind CSS` `Bootstrap` `Material UI`
 
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Databases
 
-</td>
-</tr>
-</table>
+`PostgreSQL` `MySQL` `MongoDB` `MariaDB`
+
+### Tools
+
+`Git` `GitHub` `Docker` `Vercel` `VS Code` `PhpStorm` `Eclipse` `Jira`
 
 ---
 
-## 🌟 Latest Projects
+## Selected Projects
 
-### 🔗 [AzHotels - Hotel Booking Platform](https://azhotels.vercel.app/select-hotel) - AzHotels - Hotel Booking Platform
-AzHotels is a comprehensive hotel booking platform featuring dynamic content, detailed room listings, integrated booking and payment systems.
+### AZ Hotels — Hotel Booking Platform
 
-**Tech:** `Spring Boot` `Next.js` `TypeScript` `Tailwind CSS`
+A fullstack hotel booking platform for presenting hotels, rooms, offers, and a clear reservation flow.
 
-[Live Demo](https://azhotels.vercel.app/select-hotel)
-
----
-
-### 🚀 [Mo9awil.ma](https://github.com/benfill/mo9awil.ma) - Business Creation Platform
-Streamlined platform simplifying business registration and legal compliance for Moroccan entrepreneurs.
-
-**Impact:** Reduced business creation time from weeks to days  
-**Tech:** `Laravel` `React` `Tailwind CSS` `MySQL`
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/benfill/mo9awil.ma)
+**Tech:** `Spring Boot` `Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL`
 
 ---
 
-### 🎫 [Evento](https://github.com/benfill/evento) - Event Management System
-Comprehensive ticketing platform with real-time seat selection and payment processing.
+### Taskly — Project & Task Management Platform
 
-**Features:** QR code tickets, analytics dashboard, automated notifications  
-**Tech:** `Laravel` `JavaScript` `Tailwind CSS` `Stripe API`
+A project management application with workspaces, tasks, progress tracking, and collaborative organization logic.
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/benfill/evento)
+**Tech:** `Spring Boot` `Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL`
 
 ---
 
-## 📊 GitHub Analytics
+### Fiduciaire Abdou — Bilingual Business Website
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benfill&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+A professional website for an accounting office with service pages, French/Arabic structure, RTL support, local SEO, and direct contact.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benfill&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benfill&theme=tokyonight&hide_border=true)
-
-</div>
+**Tech:** `Next.js` `Tailwind CSS` `SEO` `i18n` `RTL`
 
 ---
 
-## 💼 What I'm Looking For
+### AK Technology — B2B Catalog Website
 
-I'm actively seeking opportunities to join a professional development team where I can:
-- Contribute to meaningful projects with real-world impact
-- Collaborate with experienced developers and learn industry best practices
-- Grow my technical skills in modern software architecture and design patterns
-- Work in an environment that values clean code, testing, and continuous improvement
+A B2B catalog website for IT and office supplies with structured offers and quotation request flow.
+
+**Tech:** `Next.js` `Tailwind CSS` `Google Sheets API`
 
 ---
 
-## 📫 Let's Connect
+### Meknes Distribution — Client File Management App
 
-I'm always open to discussing new projects, collaboration opportunities, or tech in general.
+Internal application developed during my PFA internship for managing client files and commercial documents.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benfill/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Latest_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://benfill.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benfianass@gmail.com)
-
-</div>
+**Tech:** `Laravel` `React.js` `Tauri` `Tailwind CSS`
 
 ---
 
-<div align="center">
-  
-### ⭐ From [Benfill](https://github.com/Benfill) | Building the web, one commit at a time
+## Experience
 
-![Profile Views](https://komarev.com/ghpvc/?username=benfill&color=blueviolet&style=flat-square)
+**Fullstack Developer — Freelance**
+July 2025 — Present
+Building websites and web applications for small businesses, service providers, restaurants, catalogs, and professional projects.
 
-</div>
+**Fullstack Developer Intern — Digital Speak Group**
+April 2025 — July 2025
+Worked on Taskly, a project and task management platform using Spring Boot, Next.js, TypeScript, Tailwind CSS, and PostgreSQL.
+
+**Fullstack Developer Intern — Meknes Distribution**
+May 2024 — July 2024
+Built an application for client file and commercial document management using Laravel, React, Tauri, and Tailwind CSS.
+
+---
+
+## Education
+
+**YouCode — UM6P**
+Full-Stack Web Development, Java / Angular specialization
+2023 — 2025
+
+**1337 — 42Network / UM6P**
+Computer Science
+2021 — 2022
+
+---
+
+## What I'm Looking For
+
+I'm open to junior fullstack developer opportunities, internships, freelance projects, and collaborations where I can contribute, learn, and keep improving through real-world work.
+
+---
+
+## Connect
+
+* Portfolio: https://benfill.vercel.app
+* LinkedIn: https://www.linkedin.com/in/benfill
+* Email: [benfianass@gmail.com](mailto:benfianass@gmail.com)
