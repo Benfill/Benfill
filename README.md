@@ -7,297 +7,125 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+%2F+Spring+Boot+%C2%B7+Laravel;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+fullstack+web+applications;Learning+through+real-world+projects"
-      alt="Typing introduction"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=780&lines=Junior+Fullstack+Developer;Java+%2F+Spring+Boot+%C2%B7+Laravel;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+and+shipping+real+web+projects"
+      alt="Anass Benfillous typing animation"
     />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=benfill&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Benfill&label=Profile%20views&color=0e75b6&style=flat"
     alt="Benfill profile views"
   />
 </p>
 
-* 🔭 I’m currently building and improving **fullstack web applications**
-
-* 🌱 I’m strengthening my skills in **Spring Boot, Next.js, application architecture, Docker and deployment**
-
-* 👨‍💻 My projects are available at [benfill.vercel.app](https://benfill.vercel.app)
-
-* 💼 I’m open to **junior fullstack opportunities, internships, freelance projects and collaborations**
-
-* 💬 Ask me about **Java, Spring Boot, Laravel, React, Next.js and TypeScript**
-
-* 📫 Reach me at **[benfianass@gmail.com](mailto:benfianass@gmail.com)**
-
----
-
-<h3 align="left">Connect with me</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/benfill" target="_blank">
+<p align="center">
+  <a href="https://benfill.vercel.app">
     <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Anass Benfillous LinkedIn"
-      height="30"
-      width="40"
+      src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Anass Benfillous Portfolio"
     />
   </a>
 
-  <a href="https://github.com/Benfill" target="_blank">
+  <a href="https://www.linkedin.com/in/benfill">
     <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      alt="Benfill GitHub"
-      height="30"
-      width="40"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Anass Benfillous LinkedIn"
     />
   </a>
 
   <a href="mailto:benfianass@gmail.com">
     <img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg"
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email Anass Benfillous"
-      height="30"
-      width="40"
     />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools</h3>
+## About Me
 
-<h4>Programming Languages</h4>
+* 🔭 I’m currently building and improving **fullstack web applications**
+* 🌱 I’m strengthening my skills in **Spring Boot, Next.js, application architecture, Docker and deployment**
+* 👨‍💻 My projects are available at [benfill.vercel.app](https://benfill.vercel.app)
+* 💼 I’m open to **junior fullstack opportunities, internships, freelance projects and collaborations**
+* 💬 Ask me about **Java, Spring Boot, Laravel, React, Next.js and TypeScript**
+* 📫 Reach me at [benfianass@gmail.com](mailto:benfianass@gmail.com)
+
+I build web applications from backend APIs to responsive user interfaces, with a focus on clean structure, mobile-first design and practical delivery.
+
+I continue improving through real projects, freelance work, internships and hands-on learning.
+
+---
+
+## Languages and Tools
+
+### Programming Languages
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://skillicons.dev">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="Java"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="JavaScript"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="TypeScript"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="PHP"
-      width="40"
-      height="40"
+      src="https://skillicons.dev/icons?i=java,js,ts,php&theme=dark"
+      alt="Java, JavaScript, TypeScript and PHP"
     />
   </a>
 </p>
 
-<h4>Backend Development</h4>
+`Java` `JavaScript` `TypeScript` `PHP`
+
+### Backend Development
 
 <p align="left">
-  <a href="https://spring.io" target="_blank" rel="noreferrer">
+  <a href="https://skillicons.dev">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
-      alt="Spring Boot"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
-      alt="Laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="Node.js"
-      width="45"
-      height="45"
+      src="https://skillicons.dev/icons?i=spring,laravel,nodejs&theme=dark"
+      alt="Spring Boot, Laravel and Node.js"
     />
   </a>
 </p>
 
-<h4>Frontend Development</h4>
+`Spring Boot` `Spring MVC` `Spring Data` `Spring Security` `Laravel` `Node.js` `REST APIs`
+
+### Frontend Development
 
 <p align="left">
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
+  <a href="https://skillicons.dev">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="React"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-      alt="Next.js"
-      width="45"
-      height="45"
-    />
-  </a>
-
-  <a href="https://angular.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
-      alt="Angular"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="Tailwind CSS"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-      alt="Bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://mui.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
-      alt="Material UI"
-      width="40"
-      height="40"
+      src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,materialui&theme=dark"
+      alt="React, Next.js, Angular, Tailwind CSS, Bootstrap and Material UI"
     />
   </a>
 </p>
 
-<h4>Databases</h4>
+`React` `Next.js` `Angular` `Tailwind CSS` `Bootstrap` `Material UI`
+
+### Databases
 
 <p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <a href="https://skillicons.dev">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="PostgreSQL"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="MySQL"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="MongoDB"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://mariadb.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg"
-      alt="MariaDB"
-      width="45"
-      height="45"
+      src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"
+      alt="PostgreSQL, MySQL and MongoDB"
     />
   </a>
 </p>
 
-<h4>Tools and Deployment</h4>
+`PostgreSQL` `MySQL` `MongoDB` `MariaDB`
+
+### Tools and Deployment
 
 <p align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <a href="https://skillicons.dev">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="Git"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="Docker"
-      width="45"
-      height="45"
-    />
-  </a>
-
-  <a href="https://vercel.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"
-      alt="Vercel"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-      alt="Visual Studio Code"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.jetbrains.com/phpstorm" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg"
-      alt="PhpStorm"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"
-      alt="Jira"
-      width="40"
-      height="40"
+      src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,idea&theme=dark"
+      alt="Git, GitHub, Docker, Vercel, Visual Studio Code and JetBrains IDEs"
     />
   </a>
 </p>
+
+`Git` `GitHub` `Docker` `Vercel` `VS Code` `PhpStorm` `Eclipse` `Jira`
 
 ---
 
@@ -308,6 +136,8 @@
 A fullstack hotel booking platform for presenting hotels, rooms, offers and a clear reservation flow.
 
 **Technologies:** `Spring Boot` `Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL`
+
+[View project](https://azhotels.vercel.app)
 
 ---
 
@@ -325,7 +155,7 @@ A professional website for an accounting office with service pages, French and A
 
 **Technologies:** `Next.js` `Tailwind CSS` `SEO` `i18n` `RTL`
 
-**Live website:** [fiduciaireabdou.ma](https://www.fiduciaireabdou.ma)
+[Visit live website](https://www.fiduciaireabdou.ma)
 
 ---
 
@@ -334,6 +164,8 @@ A professional website for an accounting office with service pages, French and A
 A B2B catalog website for IT and office supplies with structured offers and a quotation request flow.
 
 **Technologies:** `Next.js` `Tailwind CSS` `Google Sheets API`
+
+[View project](https://ak-technology.vercel.app)
 
 ---
 
@@ -347,7 +179,7 @@ An internal application developed during my PFA internship for managing client f
   <a href="https://benfill.vercel.app">
     <img
       src="https://img.shields.io/badge/View_All_Projects-Portfolio-0E75B6?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="View Anass Benfillous projects"
+      alt="View all Anass Benfillous projects"
     />
   </a>
 </p>
@@ -362,17 +194,35 @@ An internal application developed during my PFA internship for managing client f
 
 Building websites and web applications for small businesses, service providers, restaurants, B2B catalogs and professional projects.
 
+* Developing responsive and mobile-first user interfaces
+* Integrating frontend applications with backend services and APIs
+* Deploying and maintaining web projects
+* Improving contact flows, forms, SEO structure and user experience
+
+**Technologies:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Laravel` `Spring Boot` `Git` `Vercel`
+
 ### Fullstack Developer Intern — Digital Speak Group
 
 **April 2025 — July 2025**
 
-Worked on Taskly, a project and task management platform built with Spring Boot, Next.js, TypeScript, Tailwind CSS and PostgreSQL.
+Worked on Taskly, a collaborative project and task management platform.
+
+* Developed modules for workspaces, tasks, organization and progress tracking
+* Contributed to the frontend, backend and database structure
+
+**Technologies:** `Spring Boot` `Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL`
 
 ### Fullstack Developer Intern — Meknes Distribution
 
 **May 2024 — July 2024**
 
-Built an application for client file and commercial document management using Laravel, React, Tauri and Tailwind CSS.
+Built an application for managing client files and commercial documents.
+
+* Developed backend features with Laravel
+* Worked on the React user interface
+* Contributed to the Tauri desktop application
+
+**Technologies:** `Laravel` `React.js` `Tauri` `Tailwind CSS`
 
 ---
 
@@ -392,36 +242,10 @@ Built an application for client file and commercial document management using La
 
 ---
 
-## GitHub Statistics
+## Certifications
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Benfill&theme=flat&no-frame=true&margin-w=12&row=1"
-    alt="Benfill GitHub trophies"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Benfill&show_icons=true&locale=en&hide_border=true"
-    alt="Benfill GitHub statistics"
-    height="170"
-  />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs?username=Benfill&show_icons=true&locale=en&layout=compact&hide_border=true"
- alt="Benfill most used languages"
- height="170"
-/>
-
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Benfill&hide_border=true"
-    alt="Benfill GitHub contribution streak"
-  />
-</p>
+* **Software Developer — Java & Angular Specialization**, YouCode — 2025
+* **Software Engineer**, ALX — Mastercard Foundation — 2024
 
 ---
 
@@ -445,6 +269,13 @@ I'm open to junior fullstack developer opportunities, internships, freelance pro
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://github.com/Benfill">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
     />
   </a>
 
