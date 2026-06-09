@@ -1,9 +1,3 @@
-# Hi 👋, I'm Anass Benfillous
-
-### Junior Fullstack Developer
-
-**Java / Spring Boot · Laravel · React · Next.js · TypeScript**
-
 <h1 align="center">Hi 👋, I'm Anass Benfillous</h1>
 
 <h3 align="center">
